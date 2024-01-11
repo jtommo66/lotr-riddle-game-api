@@ -1,0 +1,82 @@
+[
+  {
+    "id": "F9X72D5H",
+    "riddle": "What has roots as nobody sees, Is taller than trees, Up, up it goes, And yet never grows?",
+    "correct-answer": "Mountain",
+    "answers": [
+      { "answer": "Smoke" },
+      { "answer": "Tower" },
+      { "answer": "Mountain" }
+    ]
+  },
+  {
+    "id": "3J4V6P8N",
+    "riddle": "Thirty white horses on a red hill, First they champ, Then they stamp, Then they stand still.",
+    "correct-answer": "Teeth",
+    "incorrect-answer": [
+      { "answer": "Clouds" },
+      { "answer": "Waves" },
+      { "answer": "Teeth" }
+    ]
+  },
+  {
+    "id": "Y5H2S1G7",
+    "riddle": "Voiceless it cries, Wingless flutters, Toothless bites, Mouthless mutters.",
+    "correct-answer": "Wind",
+    "incorrect-answer": [
+      { "answer": "Shadow" },
+      { "answer": "Ghost" },
+      { "answer": "Wind" }
+    ]
+  },
+  {
+    "id": "T1Z8W3C9",
+    "riddle": "An eye in a blue face, Saw an eye in a green face. That eye is like to this eye, Said the first eye, But in low place, Not in high place.",
+    "correct-answer": "Sun",
+    "incorrect-answer": [
+      { "answer": "Compass" },
+      { "answer": "Pebble" },
+      { "answer": "Sun" }
+    ]
+  },
+  {
+    "id": "B6E0R4Q5",
+    "riddle": "It cannot be seen, cannot be felt, Cannot be heard, cannot be smelt. It lies behind stars and under hills, And empty holes it fills. It comes first and follows after, Ends life, kills laughter.",
+    "correct-answer": "Dark",
+    "incorrect-answer": [
+      { "answer": "Silence" },
+      { "answer": "Memory" },
+      { "answer": "Dark" }
+    ]
+  },
+  {
+    "id": "K7M9D5X2",
+    "riddle": "A box without hinges, key, or lid, Yet golden treasure inside is hid.",
+    "correct-answer": "Egg",
+    "incorrect-answer": [
+      { "answer": "Sunflower" },
+      { "answer": "Acorn" },
+      { "answer": "Egg" }
+    ]
+  },
+  {
+    "id": "W2A1V6C8",
+    "riddle": "Alive without breath, As cold as death; Never thirsty, ever drinking, All in mail never clinking.",
+    "correct-answer": "Fish",
+    "incorrect-answer": [
+      { "answer": "Shadow" },
+      { "answer": "Desert" },
+      { "answer": "Fish" }
+    ]
+  },
+  {
+    "id": "U8V0L3N4",
+    "riddle": "This thing all things devours: Birds, beasts, trees, flowers; Gnaws iron, bites steel; Grinds hard stones to meal; Slays king, ruins town, And beats high mountain down.",
+    "correct-answer": "Time",
+    "incorrect-answer": [
+      { "answer": "Ocean" },
+      { "answer": "Fire" },
+      { "answer": "Time" }
+    ]
+  }
+]
