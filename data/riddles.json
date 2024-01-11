@@ -14,9 +14,9 @@
     "riddle": "Thirty white horses on a red hill, First they champ, Then they stamp, Then they stand still.",
     "correct": "Teeth",
     "answers": [
-      { "answer": "Clouds", "id": "1" },
+      { "answer": "Teeth", "id": "1" },
       { "answer": "Waves", "id": "2" },
-      { "answer": "Teeth", "id": "3" }
+      { "answer": "Clouds", "id": "3" }
     ]
   },
   {
@@ -25,8 +25,8 @@
     "correct": "Wind",
     "answers": [
       { "answer": "Shadow", "id": "1" },
-      { "answer": "Ghost", "id": "2" },
-      { "answer": "Wind", "id": "3" }
+      { "answer": "Wind", "id": "2" },
+      { "answer": "Ghost", "id": "3" }
     ]
   },
   {
@@ -34,9 +34,9 @@
     "riddle": "An eye in a blue face, Saw an eye in a green face. That eye is like to this eye, Said the first eye, But in low place, Not in high place.",
     "correct": "Sun",
     "answers": [
-      { "answer": "Compass", "id": "1" },
+      { "answer": "Sun", "id": "1" },
       { "answer": "Pebble", "id": "2" },
-      { "answer": "Sun", "id": "3" }
+      { "answer": "Compass", "id": "3" }
     ]
   },
   {
@@ -54,9 +54,9 @@
     "riddle": "A box without hinges, key, or lid, Yet golden treasure inside is hid.",
     "correct": "Egg",
     "answers": [
-      { "answer": "Sunflower", "id": "1" },
+      { "answer": "Egg", "id": "1" },
       { "answer": "Acorn", "id": "2" },
-      { "answer": "Egg", "id": "3" }
+      { "answer": "Sunflower", "id": "3" }
     ]
   },
   {
@@ -64,9 +64,9 @@
     "riddle": "Alive without breath, As cold as death; Never thirsty, ever drinking, All in mail never clinking.",
     "correct": "Fish",
     "answers": [
-      { "answer": "Shadow", "id": "1" },
+      { "answer": "Fish", "id": "1" },
       { "answer": "Desert", "id": "2" },
-      { "answer": "Fish", "id": "3" }
+      { "answer": "Shadow", "id": "3" }
     ]
   },
   {
@@ -75,8 +75,8 @@
     "correct": "Time",
     "answers": [
       { "answer": "Ocean", "id": "1" },
-      { "answer": "Fire", "id": "2" },
-      { "answer": "Time", "id": "3" }
+      { "answer": "Time", "id": "2" },
+      { "answer": "Fire", "id": "3" }
     ]
   }
 ]
